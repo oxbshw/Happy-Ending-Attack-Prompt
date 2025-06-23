@@ -98,12 +98,12 @@ We welcome contributions from the AI safety community:
 ## 📞 Contact & Reporting
 
 ### Security Issues
-- **Email**: security@yourinstitution.edu
+- **Email**: security@saminstitution.edu
 - **PGP Key**: 0xDEADBEEF
 - **Response Time**: 48-72 hours
 
 ### Research Collaboration
-- **Lead Researcher**: [Your Name/Institution]
+- **Lead Researcher**: [Sayed Allam/Institution]
 - **Research Group**: Responsible AI Collective
 - **Collaboration**: Open to academic partnerships
 
